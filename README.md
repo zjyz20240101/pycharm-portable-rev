@@ -8,11 +8,6 @@ The official JetBrains™ website can be found at https://www.jetbrains.com.
 
 The name JetBrains™ as well as related names, marks, emblems and images are registered trademarks of their respective owners.
 
-## Contributing
-
-Want to contribute? Awesome! The most basic way to show your support is to star the project, or to raise issues. If
-you want to open a pull request, please read the [contributing guidelines](https://portapps.io/doc/contribute/).
-
 ## Thanks
 
 Thanks for the original author [**crazy-max**](https://github.com/sponsors/crazy-max)
